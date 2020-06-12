@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+'''
+This module is for measuring distance
+'''
+
 import numpy as np
 import os
 import argparse
